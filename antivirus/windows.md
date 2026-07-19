@@ -26,6 +26,10 @@
 
 [Panda](https://www.pandasecurity.com/it/homeusers/downloads/)
 
+[phpMussel](https://github.com/phpMussel/phpMussel)
+
+[PYAS](https://github.com/87owo/PYAS)
+
 [RedScan](https://github.com/theghostofc/RedScan)
 
 [SecureGuard](https://github.com/HUGOW04/SecureGuard)
