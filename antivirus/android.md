@@ -1,3 +1,5 @@
+[antimalwareapp](https://github.com/projectmatris/antimalwareapp)
+
 [AVG](https://play.google.com/store/apps/details?id=com.antivirus)
 
 [AVAST](https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity)
