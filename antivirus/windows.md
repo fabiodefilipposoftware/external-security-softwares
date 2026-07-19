@@ -1,6 +1,10 @@
+[Antivirus](https://github.com/Karuulme/antivirus)
+
 [AVAST](https://www.avast.com/it-it/windows-10-antivirus)
 
 [BitDefender](https://www.bitdefender.com/it-it/consumer/free-antivirus)
+
+[EmergencyDownloader](https://github.com/egoistpizza/EmergencyDownloader)
 
 [Eset Nod32](https://www.eset.com/it/privati/antivirus/download/)
 
@@ -16,6 +20,10 @@
 
 [Panda](https://www.pandasecurity.com/it/homeusers/downloads/)
 
+[RedScan](https://github.com/theghostofc/RedScan)
+
+[SecureGuard](https://github.com/HUGOW04/SecureGuard)
+
 [Sophos](https://home.sophos.com/it-it/download-pc-security)
 
 [SpringAlpha](https://github.com/JackyMark0w0/SpringAlpha)
@@ -27,3 +35,5 @@
 [TrendMicro](https://www.trendmicro.com/it_it/business/products/downloads.html)
 
 [VeraxCore-Antivirus](https://github.com/alisakkaf/VeraxCore-Antivirus)
+
+[WN-Antivirus](https://github.com/MEGAMINDMK/WN-Antivirus)
