@@ -6,6 +6,8 @@
 
 [F-Secure](https://www.f-secure.com/it/internet-security)
 
+[HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
+
 [MacAfee](https://www.mcafee.com/it-it/antivirus/gratis.html)
 
 [MalwareBytes](https://www.malwarebytes.com/it/mwb-download)
@@ -16,6 +18,12 @@
 
 [Sophos](https://home.sophos.com/it-it/download-pc-security)
 
+[SpringAlpha](https://github.com/JackyMark0w0/SpringAlpha)
+
+[TinyAntivirus](https://github.com/develbranch/TinyAntivirus)
+
 [TotalAV](https://help.totalav.com/en/tech/av/setup/-/av-setup-how-to-download-and-install)
 
 [TrendMicro](https://www.trendmicro.com/it_it/business/products/downloads.html)
+
+[VeraxCore-Antivirus](https://github.com/alisakkaf/VeraxCore-Antivirus)
