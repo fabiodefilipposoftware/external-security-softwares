@@ -32,6 +32,8 @@
 
 ⚠️[PYAS](https://github.com/87owo/PYAS)
 
+⚠️[raspirus](https://github.com/Raspirus/raspirus)
+
 ⚠️[RedScan](https://github.com/theghostofc/RedScan)
 
 ⚠️[SecureGuard](https://github.com/HUGOW04/SecureGuard)
