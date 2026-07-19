@@ -1,53 +1,55 @@
-[Antivirus](https://github.com/Karuulme/antivirus)
+⚠️[Antivirus](https://github.com/Karuulme/antivirus)
 
-[AVAST](https://www.avast.com/it-it/windows-10-antivirus)
+⚠️[Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan)
 
-[BitDefender](https://www.bitdefender.com/it-it/consumer/free-antivirus)
+✅[AVAST](https://www.avast.com/it-it/windows-10-antivirus)
 
-[clamav](https://github.com/Cisco-Talos/clamav)
+✅[BitDefender](https://www.bitdefender.com/it-it/consumer/free-antivirus)
 
-[CppAntivirus](https://github.com/kecalek13/CppAntiVirus)
+✅[clamav](https://github.com/Cisco-Talos/clamav)
 
-[EmergencyDownloader](https://github.com/egoistpizza/EmergencyDownloader)
+⚠️[CppAntivirus](https://github.com/kecalek13/CppAntiVirus)
 
-[Eset Nod32](https://www.eset.com/it/privati/antivirus/download/)
+⚠️[EmergencyDownloader](https://github.com/egoistpizza/EmergencyDownloader)
 
-[F-Secure](https://www.f-secure.com/it/internet-security)
+✅[Eset Nod32](https://www.eset.com/it/privati/antivirus/download/)
 
-[HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
+✅[F-Secure](https://www.f-secure.com/it/internet-security)
 
-[Loki](https://github.com/Neo23x0/Loki)
+⚠️[HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
 
-[MacAfee](https://www.mcafee.com/it-it/antivirus/gratis.html)
+⚠️[Loki](https://github.com/Neo23x0/Loki)
 
-[MalwareBytes](https://www.malwarebytes.com/it/mwb-download)
+✅[MacAfee](https://www.mcafee.com/it-it/antivirus/gratis.html)
 
-[Norton](https://it.norton.com/feature/antivirus-for-windows-10)
+✅[MalwareBytes](https://www.malwarebytes.com/it/mwb-download)
 
-[Panda](https://www.pandasecurity.com/it/homeusers/downloads/)
+✅[Norton](https://it.norton.com/feature/antivirus-for-windows-10)
 
-[phpMussel](https://github.com/phpMussel/phpMussel)
+✅[Panda](https://www.pandasecurity.com/it/homeusers/downloads/)
 
-[PYAS](https://github.com/87owo/PYAS)
+⚠️[phpMussel](https://github.com/phpMussel/phpMussel)
 
-[RedScan](https://github.com/theghostofc/RedScan)
+⚠️[PYAS](https://github.com/87owo/PYAS)
 
-[SecureGuard](https://github.com/HUGOW04/SecureGuard)
+⚠️[RedScan](https://github.com/theghostofc/RedScan)
 
-[SentinelXP](https://github.com/C0m3b4ck/SentinelXP)
+⚠️[SecureGuard](https://github.com/HUGOW04/SecureGuard)
 
-[Sophos](https://home.sophos.com/it-it/download-pc-security)
+⚠️[SentinelXP](https://github.com/C0m3b4ck/SentinelXP)
 
-[SpringAlpha](https://github.com/JackyMark0w0/SpringAlpha)
+✅[Sophos](https://home.sophos.com/it-it/download-pc-security)
 
-[avsuite](https://github.com/teohumble1/avsuite)
+⚠️[SpringAlpha](https://github.com/JackyMark0w0/SpringAlpha)
 
-[TinyAntivirus](https://github.com/develbranch/TinyAntivirus)
+⚠️[avsuite](https://github.com/teohumble1/avsuite)
 
-[TotalAV](https://help.totalav.com/en/tech/av/setup/-/av-setup-how-to-download-and-install)
+⚠️[TinyAntivirus](https://github.com/develbranch/TinyAntivirus)
 
-[TrendMicro](https://www.trendmicro.com/it_it/business/products/downloads.html)
+✅[TotalAV](https://help.totalav.com/en/tech/av/setup/-/av-setup-how-to-download-and-install)
 
-[VeraxCore-Antivirus](https://github.com/alisakkaf/VeraxCore-Antivirus)
+✅[TrendMicro](https://www.trendmicro.com/it_it/business/products/downloads.html)
 
-[WN-Antivirus](https://github.com/MEGAMINDMK/WN-Antivirus)
+⚠️[VeraxCore-Antivirus](https://github.com/alisakkaf/VeraxCore-Antivirus)
+
+⚠️[WN-Antivirus](https://github.com/MEGAMINDMK/WN-Antivirus)
